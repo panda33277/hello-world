@@ -1,2 +1,2 @@
 # hello-world
-This is a new project for a newbie.
+And this is a new README file in another repository
